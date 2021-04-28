@@ -36,7 +36,7 @@ experience:
     description: ""
     
   - title: Chinese National Scholarship
-    company: Ministry of Education of PRC
+    company: Ministry of Education of the PRC
     company_url: ""
     company_logo: ""
     location: ""
