@@ -27,4 +27,5 @@ summary: "This paper designs a protocol based on OpenFlow and a structure of
   which core idea is inspired by the computer architecture for the management of
   sensor nodes. "
 date: 2018-01-18T01:10:00.000Z
+url_pdf: "https://www.ieice.org/ken/paper/20180118S1bK/eng/"
 ---
