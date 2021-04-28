@@ -8,7 +8,7 @@ main:
     url: '#about'
     weight: 10
   - name: Fellowship/Grants/Scholarships
-    url: '#fellowship-grants-scholarships'
+    url: '#experience'
     weight: 15
   #- name: Posts
   #  url: '#posts'
@@ -20,7 +20,7 @@ main:
   #  url: '#talks'
   #  weight: 40
   - name: Qualifications
-    url: '#Qualifications'
+    url: '#accomplishments'
     weight: 16
   - name: Publications
     url: '#featured'
