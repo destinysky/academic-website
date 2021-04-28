@@ -32,5 +32,5 @@ image:
 summary: "This paper designs and implements a custom resource and the
   corresponding controller in Kubernetes to manage the primary and backup
   resources of network functions. "
-date: 2021-01-07T12:55:00.000Z
+date: 2021-07-01T12:55:00.000Z
 ---
