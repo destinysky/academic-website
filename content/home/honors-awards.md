@@ -4,7 +4,7 @@ widget_id: honors-awards
 headless: true
 weight: 120
 title: Honors/Awards
-active: true
+active: false
 design:
   columns: "2"
   background:
