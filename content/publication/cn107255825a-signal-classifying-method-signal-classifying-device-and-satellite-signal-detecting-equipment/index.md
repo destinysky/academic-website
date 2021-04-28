@@ -11,4 +11,5 @@ image:
   focal_point: ""
   preview_only: false
 date: 2020-06-02T13:36:00.000Z
+url_pdf: "https://patents.google.com/patent/CN107255825A/zh?oq=CN107255825A"
 ---
