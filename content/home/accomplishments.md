@@ -2,29 +2,37 @@
 widget: accomplishments
 date_format: Jan 2006
 item:
-  - certificate_url: https://www.coursera.org
+  - certificate_url: https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/
     date_end: ""
-    date_start: 2021-01-25
+    date_start: 2020-12-5
     description: ""
-    organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+    organization: The Linux Foundation
+    organization_url: https://linuxfoundation.org/
+    title: Certified Kubernetes Administrator (CKA)
     url: ""
-  - certificate_url: https://www.edx.org
+  - certificate_url: ""
     date_end: ""
-    date_start: 2021-01-01
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: 2020-12-21
-    date_start: 2020-07-01
+    date_start: 2017-03-21
     description: ""
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: Object-Oriented Programming in R
+    organization: Ministry of Human Resources and Social Security of the PRC & Ministry of Industry and Information Technology of the PRC
+    organization_url: ""
+    title: Qualification Certificate of Computer and Software Technology Proficiency - Network Engineer
+    url: ""
+  - certificate_url: ""
+    date_end: 2020-03-21
+    date_start: 2017-03-21
+    description: ""
+    organization: Cisco
+    organization_url: ""
+    title: Cisco Certificate Network Professional (CCNP)
+    url: ""
+  - certificate_url: "https://opennetworking.org/certification/sdn-skills-certification-associate/"
+    date_end: 2020-03-21
+    date_start: 2017-03-21
+    description: ""
+    organization: Open Networking Foundation
+    organization_url: "https://opennetworking.org/"
+    title: ONF Certified SDN Associate (OCSA)
     url: ""
 widget_id: Qualifications
 headless: true
