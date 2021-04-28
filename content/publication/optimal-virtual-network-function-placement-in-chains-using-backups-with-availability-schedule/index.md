@@ -36,4 +36,5 @@ image:
   focal_point: ""
   preview_only: false
 date: 2020-11-09T13:05:00.000Z
+url_pdf: "https://ieeexplore.ieee.org/document/9335802"
 ---
