@@ -49,5 +49,6 @@ summary: This paper designs a specific application scene of Kirchhoff’s circui
   proactively, solve the problems timely, and combine the research-based
   autonomous learning with extracurricular open mutual learning; so, their
   active learning ability will be promoted to a large extent.
+url_pdf: "https://journals.sagepub.com/doi/abs/10.1177/0020720918795581"
 date: 2018-09-12T12:30:00.000Z
 ---
