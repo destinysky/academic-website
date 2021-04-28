@@ -1,5 +1,6 @@
 ---
-title: Satellite signal send-receiver device and system
+title: CN207638648U  Satellite signal send-receiver device and system
+subtitle: ""
 publication_types:
   - "8"
 draft: false
