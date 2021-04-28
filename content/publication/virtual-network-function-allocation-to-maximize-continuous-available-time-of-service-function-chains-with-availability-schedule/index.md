@@ -43,7 +43,7 @@ url_project: ""
 url_source: ""
 url_video: ""
 author_notes: []
-doi: ""
+doi: 10.1109/TNSM.2020.3007712
 publication: IEEE Transactions on Network and Service Management
 tags: []
 image:
