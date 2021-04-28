@@ -1,7 +1,7 @@
 ---
 title: Rui Kang
 role: PhD Student in Kyoto University
-avatar_filename: kangrui.jpg
+avatar_filename: avatar.jpg
 bio: ""
 interests:
   - Resource allocation in network virtualization
