@@ -2,14 +2,6 @@
 widget: accomplishments
 date_format: Jan 2006
 item:
-  - certificate_url: "https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/"
-    date_end: ""
-    date_start: 2020-12-5
-    description: ""
-    organization: The Linux Foundation
-    organization_url: "https://linuxfoundation.org/"
-    title: Certified Kubernetes Administrator (CKA)
-    url: ""
   - certificate_url: ""
     date_end: ""
     date_start: 2017-03-21
@@ -26,14 +18,6 @@ item:
     organization_url: ""
     title: Cisco Certificate Network Professional (CCNP)
     url: ""
-  - certificate_url: "https://opennetworking.org/certification/sdn-skills-certification-associate/"
-    date_end: ""
-    date_start: 2017-03-03
-    description: ""
-    organization: Open Networking Foundation
-    organization_url: "https://opennetworking.org/"
-    title: ONF Certified SDN Associate (OCSA)
-    url: "" 
 widget_id: Qualifications
 headless: true
 weight: 50
