@@ -2,8 +2,8 @@
 widget: pages
 widget_id: honors/awards
 headless: true
-weight: 10
-title: honors/awards
+weight: 120
+title: Honors/Awards
 active: true
 design:
   columns: "2"
