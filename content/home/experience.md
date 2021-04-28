@@ -18,14 +18,6 @@ experience:
     date_start: 2020-11-01
     date_end: 2020-11-01
     description: ""
-  - title: IEEE ComSoc Student Travel Grant for CloudNet 2020
-    company: IEEE Communication Society
-    company_url: "https://cloudnet2020.ieee-cloudnet.org/registration/"
-    company_logo: ""
-    location: ""
-    date_start: 2020-11-01
-    date_end: 2020-11-01
-    description: ""
   - title: Japanese Government (MEXT) Scholarship
     company: Ministry of Education, Culture, Sports, Science and Technology of Japan
     company_url: "https://www.mext.go.jp/en/policy/education/highered/title02/detail02/sdetail02/1373897.htm"
@@ -42,14 +34,7 @@ experience:
     date_start: 2016-09-01
     date_end: 2017-08-31
     description: ""
-  - title: Chinese National Scholarship
-    company: Ministry of Education of PRC
-    company_url: ""
-    company_logo: ""
-    location: ""
-    date_start: 2014-09-01
-    date_end: 2016-08-31
-    description: ""
+  
   - title: First Class XIANGFEI Global Education Group Scholarship
     company: XIANGFEI Global Education Group
     company_url: ""
