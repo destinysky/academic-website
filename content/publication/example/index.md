@@ -33,7 +33,7 @@ draft: false
 featured: true
 projects: []
 slides: ""
-url_pdf: ""
+url_pdf: "https://ieeexplore.ieee.org/document/9134415/"
 summary: "This paper proposes an optimization model to derive the virtual
   network function (VNF) allocation of time slots in sequence aiming to maximize
   the continuous available time of service function chains (SFCs) in a network.
@@ -52,7 +52,7 @@ image:
   preview_only: false
 date: 2021-04-28T11:41:22.772Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00.000Z
+publishDate: 2020-07-07T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
