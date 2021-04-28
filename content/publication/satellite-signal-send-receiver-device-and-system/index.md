@@ -5,7 +5,8 @@ title: CN207638648U  Satellite signal send-receiver device and system
 subtitle: ""
 publication_types:
   - "8"
-publication: China
+publication: ""
+publication_short: China
 featured: true
 image:
   filename: ""
