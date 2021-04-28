@@ -34,7 +34,24 @@ experience:
     date_start: 2016-09-01
     date_end: 2017-08-31
     description: ""
-
+    
+  - title: Chinese National Scholarship
+    company: Ministry of Education of PRC
+    company_url: ""
+    company_logo: ""
+    location: ""
+    date_start: 2014-09-01
+    date_end: 2016-08-31
+    description: ""
+    
+  - title: First Class XIANGFEI Global Education Group Scholarship
+    company: XIANGFEI Global Education Group
+    company_url: ""
+    company_logo: ""
+    location: ""
+    date_start: 2015-09-01
+    date_end: 2015-09-01
+    description: ""
 widget_id: fellowship/grants/scholarships
 headless: true
 weight: 40
