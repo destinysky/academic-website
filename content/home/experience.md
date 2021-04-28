@@ -2,27 +2,27 @@
 widget: experience
 date_format: Jan 2006
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ""
-    company_logo: org-gc
-    location: California
-    date_start: 2021-01-01
-    date_end: ""
-    description: |-2
-        Responsibilities include:
+  - title: Research Fellow of Japan Society for the Promotion of Science
+    company:  Japan Society for the Promotion of Science
+    company_url: "https://www.jsps.go.jp/english/index.html"
+    company_logo: ""
+    location: Japan
+    date_start: 2021-04-01
+    date_end: 2024-03-31
+    description: Grant-in-Aid for Japan Society for the Promotion of Science Fellows;|-2
+        ;Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ""
-    company_logo: org-x
-    location: California
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    description: Taught electronic engineering and researched semiconductor physics.
+        ;* Analysing
+        ;* Modelling
+        ;* Deploying
+  - title: IEEE ComSoc Student Travel Grant for CloudNet 2020
+    company: IEEE Communication Society
+    company_url: "https://cloudnet2020.ieee-cloudnet.org/registration/"
+    company_logo: ""
+    location: ""
+    date_start: 2020-11-01
+    date_end: ""
+    ;description: Taught electronic engineering and researched semiconductor physics.
 widget_id: fellowship/grants/scholarships
 headless: true
 weight: 40
