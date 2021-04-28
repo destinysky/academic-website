@@ -1,43 +1,43 @@
 ---
-title: Robust Virtual Network Function Allocation in Service Function Chains
-  with Uncertain Availability Schedule
+title: Virtual Network Function Allocation to Maximize Continuous Available Time
+  of Service Function Chains with Availability Schedule
 subtitle: ""
 publication_types:
   - "2"
 authors:
   - R. Kang
   - F. He
+  - T. Sato
   - and E. Oki
 publication_short: IEEE TNSM
-abstract: The availability schedule provides information on whether each network
-  node is available at each time slot. The service interruptions caused by node
-  unavailability marked in availability schedule can be suppressed if the
-  functions are allocated according to the availability schedule. However, the
-  given availability schedule may have gaps with the actual one and influence
-  the VNF allocation. This paper proposes a robust optimization model to
-  allocate virtual network functions (VNFs) in service function chains (SFCs)
-  for time slots in sequence aiming to maximize the continuous available time of
-  SFCs in a network with uncertain availability schedules by suppressing the
-  interruptions caused by node unavailability marked in availability schedule
-  and function reallocation. We formulate the problem as a mixed integer linear
-  programming (MILP) problem over the given uncertainty set of the start time
-  slot and period of unavailability on each node in the availability schedule.
-  For solving the model in a practical time in a relative large size of network,
-  we develop a heuristic algorithm. The numerical results show that the proposed
-  model outperforms the baseline models under different levels of robustness in
-  terms of the worst-case minimum number of the longest continuous available
-  time slot in each SFC. The heuristic algorithm reduces the computation time
-  with limited performance loss compared with the MILP approach. In the
-  discussion, we introduce a constraint condition for the maintenance ability,
-  which reduces the size of uncertainty set, and an extension for supporting
-  more than one unavailability periods in the availability schedule on each
-  node.
+abstract: This paper proposes an optimization model to derive the virtual
+  network function (VNF) allocation of time slots in sequence aiming to maximize
+  the continuous available time of service function chains (SFCs) in a network.
+  The proposed model suppresses service interruptions otherwise created by the
+  unavailability of virtual machines (VMs) and the reallocation of VNFs. The
+  proposed model computes VNF allocation in a series of time slots based on a VM
+  availability schedule, which provides information on the availability of each
+  VM in each time slot. We formulate the proposed model as an integer linear
+  programming (ILP) problem with the goal of maximizing the minimum number of
+  longest continuous available time slots in each SFC. We prove that the
+  decision version of the VNF allocation problem (VNFA) is NP-complete. As the
+  size of ILP problem increases, the problem is difficult to solve in a
+  practical time. We develop a heuristic algorithm to solve the VNFA problem.
+  Numerical results show that the proposed model improves the continuous
+  available time of SFCs compared with existing models, which partially consider
+  VM unavailability or VNF reallocation. We observe that the proposed model
+  together with a consideration of routing reduces the path length of requests.
+  The developed heuristic algorithm is faster than the ILP approach with a
+  limited performance penalty.
 draft: false
-featured: false
+featured: true
 projects: []
 slides: ""
 url_pdf: ""
-summary: ""
+summary: "This paper proposes an optimization model to derive the virtual
+  network function (VNF) allocation of time slots in sequence aiming to maximize
+  the continuous available time of service function chains (SFCs) in a network.
+  "
 url_dataset: ""
 url_project: ""
 url_source: ""
