@@ -6,7 +6,7 @@ subtitle: ""
 publication_types:
   - "8"
 publication: ""
-publication_short: China
+publication_short: China Patent
 featured: true
 image:
   filename: ""
