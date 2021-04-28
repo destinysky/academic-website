@@ -10,4 +10,5 @@ image:
   focal_point: ""
   preview_only: false
 date: 2018-07-20T13:26:00.000Z
+url_pdf: "https://patents.google.com/patent/CN207638648U/zh?oq=CN207638648U"
 ---
