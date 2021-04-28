@@ -21,13 +21,16 @@ organizations:
 education:
   courses:
     - course: PhD student in informatics
-      institution: Kyoto University
+      institution: Kyoto University, Kyoto, Japan
       year: ""
     - course: M.Eng. in informatics
-      institution: Kyoto University
+      institution: Kyoto University, Kyoto, Japan
       year: 2020
+    - year: 2017
+      course: Exchange student
+      institution: University of Electro-Communications, Tokyo, Japan
     - course: B.Eng. in Network Engineering
-      institution: University of Electronic Science and Technology of China
+      institution: University of Electronic Science and Technology of China, Sichuan, China
       year: 2018
 email: ""
 superuser: true
