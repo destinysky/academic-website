@@ -3,7 +3,7 @@ title: CN207124623U Wireless signal receiving device and system
 publication_types:
   - "8"
 publication: ""
-publication_short: China
+publication_short: China Patent
 draft: false
 featured: true
 image:
