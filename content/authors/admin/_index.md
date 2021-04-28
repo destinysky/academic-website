@@ -3,8 +3,8 @@ title: Rui Kang
 role: PhD Student in Kyoto University
 bio: ""
 interests:
-  - Resource allocation in network virtualization; Intelligent network
-    management; Prototype system development in network virtualization and
+  - Resource allocation in network virtualization \n Intelligent network
+    management  \n Prototype system development in network virtualization and
     software-defined network.
 social:
   - icon: graduation-cap
