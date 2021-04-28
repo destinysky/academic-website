@@ -4,7 +4,7 @@ date_format: Jan 2006
 item:
   - certificate_url: ""
     date_end: ""
-    date_start: 2020-12-5
+    date_start: 2020-12-05
     description: ""
     organization: The Linux Foundation
     organization_url: ""
