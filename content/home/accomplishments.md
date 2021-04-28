@@ -26,14 +26,7 @@ item:
     organization_url: ""
     title: Cisco Certificate Network Professional (CCNP)
     url: ""
-  - certificate_url: "https://opennetworking.org/certification/sdn-skills-certification-associate/"
-    date_end: ""
-    date_start: 2017-03-03
-    description: ""
-    organization: Open Networking Foundation
-    organization_url: "https://opennetworking.org/"
-    title: ONF Certified SDN Associate (OCSA)
-    url: ""
+  
 widget_id: Qualifications
 headless: true
 weight: 50
