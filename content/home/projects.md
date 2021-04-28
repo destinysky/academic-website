@@ -5,6 +5,7 @@ headless: true
 weight: 65
 title: Research experience
 subtitle: ""
+active: false
 content:
   page_type: project
   filter_default: 0
