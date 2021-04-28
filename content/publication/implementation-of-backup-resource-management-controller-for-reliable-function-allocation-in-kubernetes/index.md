@@ -24,7 +24,7 @@ abstract: Resource allocation and management is a key role in network function
   the desired state of each type of Pod. Demonstration validates that the
   controller automatically manage the primary and backups resources correctly.
 draft: false
-featured: false
+featured: true
 image:
   filename: ""
   focal_point: ""
