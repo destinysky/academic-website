@@ -30,11 +30,15 @@ abstract: A suitable virtual network function (VNF) placement considering a node
   which are the bottlenecks to increase the service continuous available time at
   each time slot.
 draft: false
+url_pdf: https://ieeexplore.ieee.org/document/9335802
 featured: true
 image:
   filename: ""
   focal_point: ""
   preview_only: false
+summary: This paper considers a primary and backup VNF placement model to avoid
+  service interruption caused by node unavailabilities by using backup
+  functions. The considered backup functions have a period of startup time for
+  preparation before they can be used and the number of them is limited.
 date: 2020-11-09T13:05:00.000Z
-url_pdf: "https://ieeexplore.ieee.org/document/9335802"
 ---
