@@ -11,4 +11,5 @@ image:
   focal_point: ""
   preview_only: false
 date: 2018-03-20T13:32:00.000Z
+url_pdf: "https://patents.google.com/patent/CN207124623U/zh?oq=CN207124623U"
 ---
