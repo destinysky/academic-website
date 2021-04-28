@@ -1,6 +1,6 @@
 ---
 widget: pages
-widget_id: honors/awards
+widget_id: honors-awards
 headless: true
 weight: 120
 title: Honors/Awards
