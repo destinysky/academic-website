@@ -33,7 +33,7 @@ abstract: The availability schedule provides information on whether each network
   more than one unavailability periods in the availability schedule on each
   node.
 draft: false
-featured: true
+featured: false
 projects: []
 slides: ""
 url_pdf: ""
@@ -52,7 +52,7 @@ image:
   preview_only: false
 date: 2021-04-28T11:41:22.772Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
