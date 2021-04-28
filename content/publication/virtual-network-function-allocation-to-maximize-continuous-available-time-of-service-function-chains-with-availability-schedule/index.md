@@ -50,7 +50,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-date: 2021-04-28T12:25:42.677Z
+date: 2020-07-07T12:25:00.000Z
 url_slides: ""
 publishDate: 2020-07-07T00:00:00.000Z
 url_poster: ""
