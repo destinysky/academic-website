@@ -4,6 +4,14 @@ date_format: Jan 2006
 item:
   - certificate_url: ""
     date_end: ""
+    date_start: 2020-12-5
+    description: ""
+    organization: The Linux Foundation
+    organization_url: ""
+    title: Certified Kubernetes Administrator (CKA)
+    url: ""
+  - certificate_url: ""
+    date_end: ""
     date_start: 2017-03-21
     description: ""
     organization: Ministry of Human Resources and Social Security of the PRC & Ministry of Industry and Information Technology of the PRC
@@ -18,6 +26,14 @@ item:
     organization_url: ""
     title: Cisco Certificate Network Professional (CCNP)
     url: ""
+  - certificate_url: ""
+    date_end: ""
+    date_start: 2017-03-03
+    description: ""
+    organization: Open Networking Foundation
+    organization_url: ""
+    title: ONF Certified SDN Associate (OCSA)
+    url: "" 
 widget_id: Qualifications
 headless: true
 weight: 50
