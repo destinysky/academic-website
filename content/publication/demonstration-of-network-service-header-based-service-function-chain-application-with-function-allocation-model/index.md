@@ -29,4 +29,5 @@ image:
 summary: We implement a network service header based service function chain
   application which can be cooperated with the model.
 date: 2020-04-22T13:08:00.000Z
+url_pdf : "https://ieeexplore.ieee.org/document/9110255"
 ---
