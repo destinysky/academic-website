@@ -27,8 +27,8 @@ item:
     title: Cisco Certificate Network Professional (CCNP)
     url: ""
   - certificate_url: "https://opennetworking.org/certification/sdn-skills-certification-associate/"
-    date_end: 2020-03-21
-    date_start: 2017-03-21
+    date_end: ""
+    date_start: 2017-03-03
     description: ""
     organization: Open Networking Foundation
     organization_url: "https://opennetworking.org/"
