@@ -7,10 +7,10 @@ item:
     date_start: 2020-12-5
     description: ""
     organization: The Linux Foundation
-    organization_url: https://linuxfoundation.org/
+    organization_url: "https://linuxfoundation.org/"
     title: Certified Kubernetes Administrator (CKA)
     url: ""
- - certificate_url: ""
+  - certificate_url: ""
     date_end: ""
     date_start: 2017-03-21
     description: ""
