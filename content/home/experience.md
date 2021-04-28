@@ -26,7 +26,7 @@ experience:
     date_start: 2020-11-01
     date_end: 2020-11-01
     description: ""
-  - title: Japanese Government (Monbukagakusho: MEXT) Scholarship
+  - title: Japanese Government (MEXT) Scholarship
     company: Ministry of Education, Culture, Sports, Science and Technology of Japan
     company_url: "https://www.mext.go.jp/en/policy/education/highered/title02/detail02/sdetail02/1373897.htm"
     company_logo: ""
