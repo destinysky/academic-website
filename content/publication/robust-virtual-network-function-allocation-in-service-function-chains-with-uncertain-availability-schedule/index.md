@@ -36,7 +36,7 @@ draft: false
 featured: true
 projects: []
 slides: ""
-url_pdf: ""
+url_pdf: "https://ieeexplore.ieee.org/document/9419064"
 summary: This paper proposes a robust optimization model to allocate virtual
   network functions (VNFs) in service function chains (SFCs) for time slots in
   sequence aiming to maximize the continuous available time of SFCs in a network
@@ -48,14 +48,14 @@ url_project: ""
 url_source: ""
 url_video: ""
 author_notes: []
-doi: ""
+doi: "10.1109/TNSM.2021.3076511"
 publication: IEEE Transactions on Network and Service Management
 tags: []
 image:
   caption: ""
   focal_point: ""
   preview_only: false
-date: 2021-04-28T12:08:35.802Z
+date: 2021-04-29T12:08:35.802Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
