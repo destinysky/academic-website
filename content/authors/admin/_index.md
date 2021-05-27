@@ -23,7 +23,7 @@ education:
     - course: PhD student in informatics
       institution: Kyoto University, Kyoto, Japan
       year: ""
-    - course: M.Eng. in informatics
+    - course: Master of informatics
       institution: Kyoto University, Kyoto, Japan
       year: 2020
     - year: 2017
