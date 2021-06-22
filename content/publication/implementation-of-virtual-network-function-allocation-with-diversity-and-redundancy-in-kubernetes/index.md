@@ -27,7 +27,7 @@ abstract: Diversity in network function virtualization is to use a group of thin
   controller automatically manages the resources correctly, improves the
   resource utilization, and increases the number of acceptable requests.
 draft: false
-featured: false
+featured: true
 image:
   filename: ""
   focal_point: Smart
