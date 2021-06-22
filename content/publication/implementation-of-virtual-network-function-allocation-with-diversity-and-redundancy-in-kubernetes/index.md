@@ -35,5 +35,5 @@ image:
 summary: >
   This paper designed and implemented a controller in Kubernetes. We introduced
   the structure and the components in the controller in details.
-date: 2021-06-22T06:10:05.225Z
+date: 2021-06-21T15:00:05.225Z
 ---
