@@ -9,6 +9,7 @@ authors:
   - F. He
   - T. Sato
   - and E. Oki
+doi: 10.23919/IFIPNetworking52078.2021.9472200
 publication: IFIP Networking 2021
 publication_short: IFIP Networking 2021
 abstract: Diversity in network function virtualization is to use a group of thin
@@ -30,7 +31,7 @@ draft: false
 featured: true
 image:
   filename: ""
-  focal_point: Smart
+  focal_point: ""
   preview_only: false
 summary: >
   This paper designed and implemented a controller in Kubernetes. We introduced
