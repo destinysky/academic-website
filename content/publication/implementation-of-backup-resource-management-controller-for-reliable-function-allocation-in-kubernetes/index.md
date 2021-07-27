@@ -8,6 +8,7 @@ authors:
   - R. Kang
   - F. He
   - and E. Oki
+doi: 10.1109/NetSoft51509.2021.9492724
 publication: 7th IEEE International Conference on Network Softwarization (NetSoft 2021)
 publication_short: NetSoft 2021
 abstract: Resource allocation and management is a key role in network function
