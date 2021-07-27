@@ -8,6 +8,7 @@ authors:
   - F. He
   - T. Sato
   - and E. Oki
+doi: 10.1109/DRCN51631.2021.9477366
 publication: 17th International Conference on the Design of Reliable Communication Networks
 publication_short: DRCN 2021
 abstract: The reliability of virtual network can be increased by allocating
