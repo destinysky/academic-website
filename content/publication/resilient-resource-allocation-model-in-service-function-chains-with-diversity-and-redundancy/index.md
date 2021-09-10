@@ -7,6 +7,7 @@ authors:
   - R. Kang
   - F. He
   - and E. Oki
+doi: 10.1109/ICC42927.2021.9500867
 publication: IEEE International Conference on Communications
 publication_short: ICC 2021
 abstract: This paper proposes an optimization model to derive the resilient
